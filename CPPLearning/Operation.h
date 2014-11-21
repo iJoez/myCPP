@@ -2,7 +2,7 @@
 class Operation
 {
 public:
-	Operation();
+	
 	virtual ~Operation();
 };
 
